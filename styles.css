@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between
+}
+
+
+
+.box{
+	width:100px;
+	height:100px;
+	background-color:red;
+	border:2px solid black;
+	display:inline-block;
+}
